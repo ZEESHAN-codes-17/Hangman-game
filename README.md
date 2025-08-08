@@ -25,9 +25,7 @@ A colorful and interactive Hangman game built with Python and Tkinter!
 
 - Python 3.x (Tkinter is included with standard Python installations)
 
-## Screenshots
 
-![screenshot](screenshot.png) <!-- Add a screenshot if you want -->
 
 ## License
 
